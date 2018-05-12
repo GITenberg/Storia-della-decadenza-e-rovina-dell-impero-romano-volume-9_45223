@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/375
     wikipedia: http://en.wikipedia.org/wiki/Edward_Gibbon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45223#Storia-della-decadenza-e-rovina-dell-impero-romano-volume-9
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2014-03-26'
 gutenberg_type: Text
