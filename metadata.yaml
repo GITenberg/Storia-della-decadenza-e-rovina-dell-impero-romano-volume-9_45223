@@ -1,0 +1,37 @@
+_repo: Storia-della-decadenza-e-rovina-dell-impero-romano-volume-9_45223
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bertolotti, Davide
+    birthdate: 1784
+    deathdate: 1860
+    gutenberg_agent_id: '43156'
+    url: http://www.gutenberg.org/2009/agents/43156
+    wikipedia: http://it.wikipedia.org/wiki/Davide_Bertolotti
+covers:
+- cover_type: archival
+  image_path: 45223-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gibbon, Edward
+    birthdate: 1737
+    deathdate: 1794
+    gutenberg_agent_id: '375'
+    url: http://www.gutenberg.org/2009/agents/375
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Gibbon
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2014-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45223'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Rome -- History -- Empire, 30 B.C.-476 A.D.'
+- !lcsh 'Byzantine Empire -- History -- To 527'
+title: Storia della decadenza e rovina dell'impero romano, volume 09
+url: http://www.gutenberg.org/ebooks/45223
